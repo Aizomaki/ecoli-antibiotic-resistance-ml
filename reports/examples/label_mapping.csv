@@ -1,0 +1,6 @@
+raw_label,binary_label
+Intermediate,0
+Nonsusceptible,1
+Resistant,1
+Susceptible,0
+Susceptible-dose dependent,0

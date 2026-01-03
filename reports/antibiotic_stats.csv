@@ -1,0 +1,10 @@
+Antibiotic,count,sum,neg
+gentamicin,7878,914.0,6964.0
+ciprofloxacin,7749,1925.0,5824.0
+ceftazidime,7482,1014.0,6468.0
+ampicillin,6806,3899.0,2907.0
+cefotaxime,6654,1260.0,5394.0
+piperacillin/tazobactam,6531,480.0,6051.0
+cefuroxime,5062,756.0,4306.0
+amoxicillin/clavulanic acid,4494,1473.0,3021.0
+trimethoprim/sulfamethoxazole,4175,1414.0,2761.0

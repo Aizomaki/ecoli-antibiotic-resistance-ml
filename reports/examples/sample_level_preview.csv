@@ -1,0 +1,6 @@
+Genome ID,Laboratory Typing Method,Testing Standard,Evidence,Laboratory Typing Platform,Vendor,Testing Standard Year,num_tests,num_unique_antibiotics,has_pubmed,has_source,amoxicillin/clavulanic acid,ampicillin,cefotaxime,ceftazidime,cefuroxime,ciprofloxacin,gentamicin,piperacillin/tazobactam,trimethoprim/sulfamethoxazole
+1045010.61,Broth dilution,CLSI,,,,,13,13,0,0,,1.0,,,,0.0,0.0,,0.0
+1045010.62,Broth dilution,CLSI,,,,,13,13,0,0,,1.0,,,,0.0,0.0,,0.0
+1045010.63,Broth dilution,CLSI,,,,,13,13,0,0,,0.0,,,,0.0,0.0,,0.0
+1045010.64,Broth dilution,CLSI,,,,,13,13,0,0,,1.0,,,,0.0,0.0,,1.0
+1328432.3,Broth dilution,,Laboratory Method,,,,16,16,1,0,,0.0,0.0,0.0,,0.0,0.0,,0.0

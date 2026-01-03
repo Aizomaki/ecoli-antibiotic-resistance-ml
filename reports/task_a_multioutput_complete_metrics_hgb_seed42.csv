@@ -1,0 +1,11 @@
+,accuracy,f1,roc_auc
+amoxicillin/clavulanic acid,0.6666666666666666,0.0,0.5
+ampicillin,1.0,1.0,
+cefotaxime,1.0,0.0,
+ceftazidime,1.0,0.0,
+cefuroxime,0.6666666666666666,0.0,0.5
+ciprofloxacin,0.8333333333333334,0.0,0.5
+gentamicin,1.0,0.0,
+piperacillin/tazobactam,1.0,0.0,
+trimethoprim/sulfamethoxazole,0.6666666666666666,0.0,0.5
+macro_avg,0.8703703703703703,0.1111111111111111,0.5

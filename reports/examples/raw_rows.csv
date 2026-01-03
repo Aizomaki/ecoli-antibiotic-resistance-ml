@@ -1,0 +1,11 @@
+Genome ID,Antibiotic,Resistant Phenotype,Laboratory Typing Method,Testing Standard,Testing Standard Year
+562.144628,ceftriaxone,,MIC,CLSI,2018.0
+562.5691,trimethoprim/sulfamethoxazole,,Broth dilution,CLSI,
+562.144245,meropenem,Susceptible,Broth dilution,EUCAST,2016.0
+562.100003,trimethoprim/sulfamethoxazole,Susceptible,Disk diffusion,EUCAST,
+562.65814,cefepime,Resistant,,,
+562.143892,piperacillin/tazobactam,,MIC,CLSI,2021.0
+562.7703,ceftriaxone,Susceptible,Broth dilution,EUCAST,
+562.143749,minocycline,,MIC,CLSI,2021.0
+1438670.3,ceftriaxone,,Broth dilution,,
+562.14445,ciprofloxacin,,MIC,CLSI,2018.0
